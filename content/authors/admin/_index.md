@@ -121,7 +121,7 @@ social:
 highlight_name: true
 ---
 
- I am currently a PhD candidate in CS at Stanford, advised by Prof. Jure Leskovec and Prof. Johan Ugander. Previously, I completed my undergrad at Columbia, where I studied CS and Sociology, and was advised by Prof. Kathy McKeown. I am fortunate to be supported by the NSF Graduate Research Fellowship and the Meta PhD Fellowship. I am on the academic job market for 2023-2024. You can find my CV and research statement here.
+ I now am currently a PhD candidate in CS at Stanford, advised by Prof. Jure Leskovec and Prof. Johan Ugander. Previously, I completed my undergrad at Columbia, where I studied CS and Sociology, and was advised by Prof. Kathy McKeown. I am fortunate to be supported by the NSF Graduate Research Fellowship and the Meta PhD Fellowship. I am on the academic job market for 2023-2024. You can find my CV and research statement here.
 
 My research develops computational methods to tackle complex societal challenges, from pandemics to polarization to supply chains. I leverage novel data sources - such as cell phones, search logs, and social media - to understand human networks and behaviors at the center of such challenges. These data sources provide new opportunities to capture individuals at scale, with the potential to improve decisions that affect billions every day.
 
