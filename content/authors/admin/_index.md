@@ -1,90 +1,91 @@
 ---
 # Display name
-title: 吳健雄
+title: Giuseppe Russo Latona
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Giuseppe
+last_name: Russo Latona
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoc
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: EPFL
+    url: https://www.epfl.ch/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Causal Understanding
+  - Natural Language Processing
+  - Social Media
+  - Sustainability 
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: ETH Zurich
+      year: 2024
+    - course: MSc in Computer Science 
+      institution: ETH Zurich
+      year: 2020
+    - course: BSc in Computer Science 
+      institution: Politecnico of Milan
+      year: 2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+#skills:
+#  - name: Technical
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: python
+#        icon_pack: fab
+#      - name: Data Science
+#        description: ''
+#        percent: 100
+#        icon: chart-line
+#        icon_pack: fas
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: database
+#        icon_pack: fas
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-hiking
+#        icon_pack: fas
+#      - name: Cats
+#        description: ''
+#        percent: 100
+#        icon: cat
+#        icon_pack: fas
+#      - name: Photography
+#        description: ''
+#        percent: 80
+#        icon: camera-retro
+#        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +121,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ I am currently a PhD candidate in CS at Stanford, advised by Prof. Jure Leskovec and Prof. Johan Ugander. Previously, I completed my undergrad at Columbia, where I studied CS and Sociology, and was advised by Prof. Kathy McKeown. I am fortunate to be supported by the NSF Graduate Research Fellowship and the Meta PhD Fellowship. I am on the academic job market for 2023-2024. You can find my CV and research statement here.
+
+My research develops computational methods to tackle complex societal challenges, from pandemics to polarization to supply chains. I leverage novel data sources - such as cell phones, search logs, and social media - to understand human networks and behaviors at the center of such challenges. These data sources provide new opportunities to capture individuals at scale, with the potential to improve decisions that affect billions every day.
+
+However, novel data also introduce challenges for analysis, such as how to infer fine-grained networks from aggregated data (Nature'21), how to estimate causal spillover effects of policies (AAAI'23), and how to extract precise signals from vast unlabeled data such as search logs (arXiv'23), speeches (PNAS'22), news articles (EMNLP'19), and social media (EMNLP'18). To address these challenges, my research develops new methods blending machine learning, network science, and natural language processing. I use these methods to develop policy insights and tools (KDD'21, IAAI'22), which have been widely used by policymakers.
 {style="text-align: justify;"}
