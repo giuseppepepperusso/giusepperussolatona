@@ -121,7 +121,7 @@ social:
 highlight_name: true
 ---
 
- I am currently a Postdoc at DLab at EPFL in Lausanne advised by Prof. Robert West. Previously, I completed my PhD in Computer Science at ETH Zurich advised by Prof. Frank Schweitzer. 
+ I am currently a Postdoc at DLab at EPFL in Lausanne advised by Prof. Robert West. Previously, I completed my PhD in Computer Science at ETH Zurich advised by Prof. Frank .  
 
 My research develops computational methods to tackle complex societal challenges, from content moderation in social media to improve the suistanability of food systems to reduction of polarization. I leverage massive data sources - such as digital traces, buy logs, and social media - to understand human behaviors at the center of such challenges. These data sources provide new opportunities to capture individuals at scale, with the potential to improve decisions that affect billions every day.
 
